@@ -8,4 +8,6 @@ This simulation contains models from multiple resources:
 
 Below are videos for testing a custom grasp detection algorithm in one-object and multiple-object scenarios.
 
-Gazebo Pick & Place simulation used to test deep learning based grasp detection models. Models contained in this simulation include Baxter Simulator, YCB object models and a box from Udacity RoboND-Perception-Project. This project is part of my Master's thesis at Harbin Institute of Technology.
+[Video: Planar Grasp Detection with One Object](https://youtu.be/GI-E_MLOj64)
+
+[Video: Planar Grasp Detection with Multiple Objects](https://youtu.be/qlhEtHCVZsw)
